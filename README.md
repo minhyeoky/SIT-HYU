@@ -2,6 +2,13 @@
 
 **2019.07.22~2019.07.27**
 
+| Minhyeok Lee<<inh0211@hanyang.ac.kr>>             |
+| ------------------------------------------------- |
+| **Changsun Park**<<changsun19991212@gmail.com>>   |
+| **Yixian Geng**<<bp17043@shibaura-it.ac.jp>>      |
+| **Taichi Kashimura**<<bp18030@shibaura-it.ac.jp>> |
+
+
 simple rhythm game with RaspberryPi and ESP-Wroom-32(ESP32)
 
 they play the role of a console and controllers.
